@@ -1,5 +1,5 @@
-#WARNING
-This script has a security risk, it is here to demonstrate a proof of concept and should not be used in production environments or anything requiring security or distributed at all.
+> WARNING
+> This script has a security risk, it is here to demonstrate a proof of concept and should not be used in production environments or anything requiring security or distributed at all.
 
 # load-ajax-as-html
 This script creates a function which takes a few arguments and returns the content as HTML to be inserted into the D.O.M.
